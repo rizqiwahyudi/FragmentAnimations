@@ -3,7 +3,7 @@ package com.labo.kaji.fragmentanimations;
 import android.graphics.Camera;
 import android.graphics.Matrix;
 import android.os.Build;
-import android.support.annotation.FloatRange;
+import androidx.annotation.FloatRange;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 
